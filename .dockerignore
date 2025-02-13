@@ -1,0 +1,17 @@
+.git/
+.vscode/
+docs/
+node_modules/
+
+.dockerignore
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.markdownlint.json
+
+compose.yaml
+Dockerfile
+eslint.config.js
+prettier.config.js
+README.md

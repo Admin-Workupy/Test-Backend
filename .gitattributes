@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+*.md diff=markdown
+
+*.yaml linguist-detectable=true
+
+.env.*.example linguist-language=INI
